@@ -72,7 +72,7 @@ Vue的学习历程
 ## 08-组件通信-父子组件通信案例
 ## 09-组件通信-父子组件的访问方式
 
-# [十一、组件化高级)(https://github.com/Esick0429/Vue/tree/master/%E7%BB%84%E4%BB%B6%E5%8C%96%E9%AB%98%E7%BA%A7)
+# [十一、组件化高级](https://github.com/Esick0429/Vue/tree/master/%E7%BB%84%E4%BB%B6%E5%8C%96%E9%AB%98%E7%BA%A7)
 ## 01-slot-插槽的基本使用
 ## 02-slot具名插槽
 ## 03-编译的作用域
